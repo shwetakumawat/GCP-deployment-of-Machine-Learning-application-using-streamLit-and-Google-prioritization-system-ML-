@@ -1,0 +1,8 @@
+Flask==1.0.3
+numpy==1.18.1
+requests==2.21.0
+google-cloud-bigquery==1.27.2
+sklearn
+pandas==0.25.3
+google-cloud-storage
+google-cloud-kms

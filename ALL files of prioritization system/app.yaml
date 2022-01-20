@@ -1,0 +1,8 @@
+runtime: python37
+
+instance_class: F4_1G
+automatic_scaling:
+  min_idle_instances: 3
+  max_idle_instances: automatic
+  min_pending_latency: automatic
+  max_pending_latency: 10s
